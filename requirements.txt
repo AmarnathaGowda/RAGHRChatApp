@@ -1,0 +1,7 @@
+boto3
+langchain
+streamlit
+pypdf
+langchain_aws
+anthropic
+-e .
